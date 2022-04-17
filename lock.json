@@ -1,0 +1,22 @@
+[     
+    {
+        "Author": "",
+        "Name": "Lock",
+        "Punchline": "\u9501\u5b9a",
+        "Description": "\u9501\u5b9aBOSS /LockBOSS change 1 \u9760\u8fd1\u6c34\u6676\u5207\u63621\u53f7\u7ebf\u8def\n/LockBOSS qi\u9a91\u4e0a\u6700\u8fd1\u7684\u4eba\n/LockBOSS cai\u91c7\u96c6\u6700\u8fd1\u7684\u77ff,",
+        "InternalName": "Lock",
+        "AssemblyVersion": "1.0.1.4",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "IconUrl": "https://gitee.com/lwskkkk/others/blob/master/Lock/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://gitee.com/lwskkkk/others/blob/master/Lock/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://gitee.com/lwskkkk/others/blob/master/Lock/latest.zip",
+        "DownloadLinkUpdate": "hhttps://gitee.com/lwskkkk/others/blob/master/Lock/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1649939415"
+    }
+]
