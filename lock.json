@@ -9,13 +9,13 @@
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
-        "IconUrl": "https://gitee.com/lwskkkk/others/blob/master/Lock/icon.png",
+        "IconUrl": "https://raw.githubusercontents.com/3Qice/others/master/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://gitee.com/lwskkkk/others/blob/master/Lock/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontents.com/3Qice/others/master/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://gitee.com/lwskkkk/others/blob/master/Lock/latest.zip",
-        "DownloadLinkUpdate": "hhttps://gitee.com/lwskkkk/others/blob/master/Lock/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontents.com/3Qice/others/master/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontents.com/3Qice/others/master/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1649939415"
     }
